@@ -52,3 +52,5 @@ echo "  WiFi (wpa_supplicant): $(sudo systemctl is-enabled wpa_supplicant@wlo1.s
 echo "  SSH: $(sudo systemctl is-enabled ssh)"
 echo ""
 echo "Reboot to test: sudo reboot"
+
+That's it.
