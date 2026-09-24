@@ -24,3 +24,7 @@ sudo ./server-setup.sh
 
 ## Author
 harsh-lab (DevOps Learning)
+
+
+### Setup System Resource Alerts with monit 
+https://oneuptime.com/blog/post/2026-03-02-how-to-set-up-system-resource-alerts-with-monit-on-ubuntu/view
